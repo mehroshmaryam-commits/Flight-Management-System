@@ -8,7 +8,6 @@ A desktop **airline management system** built in **Java (Swing)**, providing ded
 
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
